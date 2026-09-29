@@ -21,7 +21,8 @@
 ### 📡 What I'm working on
 
 - 🏎️ **MadRams** (Baja SAE) and **Quantum Speed Racing** (Electrathon MX): building the vehicle telemetry and EV power systems from scratch
-- ⚡ **Silca Elyos** (Shell Eco-marathon): energy optimization on the team's existing car, including pulse-and-coast strategy and FOC tuning.   I also lead the team's new **autonomous-car (ADC)** effort
+- ⚡ **Silca Elyos** (Shell Eco-marathon): energy optimization on the team's existing car, including pulse-and-coast strategy and FOC tuning.
+        I also lead the team's new **autonomous-car (ADC)** effort
 - 🤖 **OmniSim**: follow-up PRs on obstacle-avoidance tests and procedural maps, building on my merged Nav2 contribution
 
 ---
