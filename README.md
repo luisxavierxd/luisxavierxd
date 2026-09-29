@@ -86,8 +86,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=luisxavierxd&layout=compact&theme=github_dark&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisxavierxd&layout=compact&hide_border=true" alt="Top languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top languages" />
   </picture>
 </p>
 
