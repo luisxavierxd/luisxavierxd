@@ -84,11 +84,14 @@
 
 ---
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg" />
-    <img src="./profile-summary-card-output/default/2-most-commit-language.svg" alt="Top languages" />
-  </picture>
-</p>
+### 📊 Where I actually go deep
+
+| Language | Depth | Used for |
+|---|---|---|
+| **C++** | Core | Embedded control and firmware: FOC/BLDC tuning, FreeRTOS on ESP32, sensor drivers |
+| **Python** | Strong | Computer vision, ROS 2 nodes, data pipelines, FastAPI backends |
+| **TypeScript / JS** | Practical, AI-assisted | Web demos, dashboards and course sites that present the engineering |
+
+<sub>GitHub's language stats count lines, so the web demos outweigh the firmware. This table is the honest version.</sub>
 
 <p align="center"><sub>I like controlling tools below their intended abstraction: BLE protocols, file formats, CLIs as engines.</sub></p>
