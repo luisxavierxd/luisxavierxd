@@ -8,7 +8,7 @@
 
 <p align="center">
   Robotics Engineering @ Tec de Monterrey, Campus Guadalajara<br/>
-  Lead of motor control and the Autonomous Driving Challenge at <b>ELYOS Racing</b> (Shell Eco-marathon)
+  Lead of the Autonomous Driving Challenge division and the motor-control firmware at <b>ELYOS Racing</b> (Shell Eco-marathon)
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ A three-wheeled efficiency car that has to drive a lap on its own: dodge cones, 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ FOC motor driver
+### ⚡ FOC motor-driver firmware
 
 Teensy 4.1 (Cortex-M7 @ 600 MHz) · 48 V BLDC hub motor
 
