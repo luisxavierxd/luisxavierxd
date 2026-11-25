@@ -65,9 +65,15 @@ Field-oriented control in a 10 kHz hardware ISR, with FreeRTOS handling throttle
 </tr>
 </table>
 
+### 🧭 Leading the ADC division
+
+- **Program management (PMBOK 8):** WBS, milestones, risk register, change control and stage gates up to the June 2027 competition
+- **Engineering governance:** 13 repos with leaders and qualified contributors per area, CODEOWNERS, a single CI gate (`ci-ok`) and DCO sign-off
+- **Single source of truth:** moved the team's planning from Notion to GitHub issues, milestones and Projects
+- **Onboarding:** entry guides and per-folder READMEs so a new member ships in their first week
+
 <p align="center">
-  <sub>🏗️ I also run the team's GitHub org: 13 repos with CI, a versioned protocol shared by every board, per-competition release manifests and PMBOK 8 project management.<br/>
-  The code is private to the team; the results are public on the <a href="https://elyos-racing.github.io/team-portfolio/">team portfolio</a>.</sub>
+  <sub>The code is private to the team; the results are public on the <a href="https://elyos-racing.github.io/team-portfolio/">team portfolio</a>.</sub>
 </p>
 
 ---
