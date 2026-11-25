@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=F5A623&center=true&vCenter=true&width=640&lines=making+a+car+drive+itself;sensorless+FOC+at+10+kHz;ROS+2+%C2%B7+digital+twins+%C2%B7+edge+AI" alt="making a car drive itself" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=F5A623&center=true&vCenter=true&width=640&lines=turning+sensors+into+decisions;making+a+car+drive+itself;sensorless+FOC+at+10+kHz;ROS+2+%C2%B7+digital+twins+%C2%B7+edge+AI" alt="turning sensors into decisions" />
 </p>
 
 <p align="center">
